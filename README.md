@@ -13,6 +13,9 @@
 <p align = "center">
 Email: jesusdaniolob@gmail.com
 </p>
+<p align = "center">
+Country-City: Venezuela - Maracaibo
+</p>
 <hr><br>
 
 <h1 align = "center">  ⚡ Skills </h1>
