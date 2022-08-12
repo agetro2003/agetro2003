@@ -1,9 +1,16 @@
-### Hi there 👋
-<p align = "center">
-  
-  Name: Jesús Daniel Ortega Briceño 
 
-  </p>
+### Hi there 👋 Welcome to my GitHub  :grinning:
+<hr>
+<p align = "center">
+   Name: Jesús Daniel Ortega Briceño 
+</p>
+<p align = "center">
+  Age: 19
+</p>
+<p align = "center">
+Email: jesusdaniolob@gmail.com
+</p>
+<hr>
 <!--
 **agetro2003/agetro2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
