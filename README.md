@@ -1,5 +1,9 @@
 ### Hi there 👋
+<p align = "center">
+  
+  Name: Jesús Daniel Ortega Briceño 
 
+  </p>
 <!--
 **agetro2003/agetro2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  Age: 19
+
+  Contact: jesusdaniolob@gmail.com
 -->
