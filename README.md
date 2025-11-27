@@ -5,10 +5,10 @@
    <b> Name: Jesús Daniel Ortega Briceño 
 </p>
 <p align = "center">
- Computer Engineering Student in Universidad Rafael Urdaneta
+ Computer Engineering
 </p>
 <p align = "center">
-  Age: 20
+  Age: 22
 </p>
 <p align = "center">
 Email: jesusdaniolob@gmail.com
